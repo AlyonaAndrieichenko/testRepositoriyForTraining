@@ -1,4 +1,4 @@
-db.articless.insertOne({
+db.articles.insertOne({
   title: "Test-Article",
   tags: "test",
   content: "12345",
