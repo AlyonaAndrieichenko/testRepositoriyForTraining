@@ -1,1 +1,1 @@
-# testRepositoriyForTraining
+# testRepositoriyForTrainingMaksym bondarenko
