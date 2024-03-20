@@ -1,2 +1,2 @@
 # testRepositoriyForTraining
-Nataliia Oleksenko
+- Nataliia Oleksenko
