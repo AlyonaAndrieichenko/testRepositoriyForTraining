@@ -1,1 +1,2 @@
 # testRepositoriyForTraining
+- Oleksandr Harbuz
